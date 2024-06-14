@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Joel António 🖐️
-- 🎯 Hoje eu estudo e trabalho com back-end
-- 🤓 Estudando Java, Python e Computação em Nuvem(AWS)
+- 🎯 Hoje eu estudo Computação em Nuvem(AWS), Sistemas Distribuídos e Paralelos
+- 🤓 Back-end: Java, Python
+- 🤓 Front-end: Html, css, js | ReactJS
+- 📒 Base de Dados: PostgreSQL, MySQL
 - 🙌 Contacte-me no e-mail: joelantonio2020ucan@gmail.com
 - 🤖 pronouns: ele/dele
 
